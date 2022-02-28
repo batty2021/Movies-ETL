@@ -6,6 +6,6 @@ Perform ETL on several movie datasets to predict popular films for a streaming s
 
 # Software ;
 ETL pipeline 
-Python 3.7.6, JupyterLab 2.26
+Python 3.7.6, Jupyternotebook 2.26
 PostgreSQL 11, Pgadmin 4.20
 Movie Data sourced from IMDB, Kaggle (note: due to size of the raw data files, they are not included within this repo)
